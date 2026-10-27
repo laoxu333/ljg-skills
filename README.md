@@ -115,3 +115,5 @@ rsync -a "$HOME/code/ljg-skills-md/skills/" "$HOME/.agents/skills/"
 `ljg-analogy` 在两个分支中均默认直接在对话中给出类比或隐喻；比较两个对象时保留关键差异，仅在用户明确要求时保存文件。
 
 `ljg-business-model` 在两个分支中均交付 PNG 商业模式画布，并保留 HTML 和 JSON；运行需要 Bun，导出图片需要可用的真实浏览器截图能力。
+
+<!-- pr-mech-test 2026-10-28 -->
